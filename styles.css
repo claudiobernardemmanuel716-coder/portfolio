@@ -1,0 +1,36 @@
+a {
+	text-decoration: none;
+	}
+header {
+
+	background-color: #f1f1f1;
+	margin: 10px;
+	padding: 20px;
+	font-size: 24px;
+}
+
+}
+.container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+.container div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+}
+ .container1 {
+  display: flex;
+  justify-content: space-around;
+  background-color: DodgerBlue;
+ }
+
+.container1 div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
+  font-size: 24px;
+}
+
+/* #f1f1f1 -color grey for background color*/
