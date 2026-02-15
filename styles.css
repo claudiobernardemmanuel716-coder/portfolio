@@ -1,25 +1,26 @@
-a {
+a{
 	text-decoration: none;
 	}
-.flex-container {
+.flex-container{
  	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
 	background-color: red;
 	}
-.flex-container > div {
+.flex-container > div{
  	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
 	background-color: red;
 	}
-a {
+a{
 	color: black
 	
 	}
-body {
+body{
 	
 }
+
 
 
 
